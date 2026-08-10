@@ -7,10 +7,10 @@ entries:
   name: operator-certification-operator
   schema: olm.package
 - entries:
-  - name: operator-certification-operator.v1.3.1
+  - name: operator-certification-operator.v1.6.0
   name: alpha
   package: operator-certification-operator
   schema: olm.channel
-- image: registry.connect.redhat.com/opdev/operator-certification-operator-bundle@sha256:c390f32b40449fb09477e288fe5347319b691d3e89e020163e32007e6679c685
+- image: registry.connect.redhat.com/opdev/operator-certification-operator-bundle@sha256:5970d79ffcb504e61010bff2791901c7ea121d05e3d56f5344f6226bb9d4533d
   schema: olm.bundle
 schema: olm.template.basic
